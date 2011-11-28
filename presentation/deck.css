@@ -1,5 +1,5 @@
 .deck-container .focused-text {
-	margin-top: 200px;
+	margin-top: 140px;
 	font-size: 45px;
 }
 
@@ -11,4 +11,8 @@
 	list-style-type: none;
 	margin-top: 100px;
 	text-align: center;
+}
+
+.deck-container .strike {
+	text-decoration: line-through;
 }
