@@ -17,3 +17,11 @@
 	text-decoration: line-through;
 }
 
+.deck-container h4 {
+	margin-top: -30px;
+}
+
+.deck-container .offroad{
+	text-align: center;
+	font-size: 33px;
+}
